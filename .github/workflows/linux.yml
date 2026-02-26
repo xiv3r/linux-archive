@@ -1,4 +1,4 @@
-name: Firmware i915
+name: Linux Archive
 
 on:
   workflow_dispatch:
